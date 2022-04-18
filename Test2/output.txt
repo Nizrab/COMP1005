@@ -1,0 +1,7 @@
+milk, 3
+bread, 5
+cookies, 10
+eggs, 6
+lettuce, 2
+pasta, 8
+nuts, 7

@@ -1,0 +1,10 @@
+milk, 3
+bread, 5
+# these are essential
+cookies, 10
+eggs, 6
+lettuce, 2
+# these are the next items
+pasta, 8
+nuts, 7
+# these are optional

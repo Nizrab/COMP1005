@@ -1,0 +1,9 @@
+kangaroo, 5
+capybara, 7
+wombat, 2
+koala, 3
+wallaby, 4
+quokka, 5
+platypus, 9
+dingo, 2
+kookaburra, 1
